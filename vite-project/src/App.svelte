@@ -8,8 +8,6 @@
   let token: number;
   let stakes: number;
   let acct: any;
-  let a: number;
-  let c: number;
 
   const connectWallet = async () => {
     const { ethereum } = window as any;
