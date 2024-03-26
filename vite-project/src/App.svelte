@@ -4,7 +4,6 @@
   import { Contract } from "ethers";
   import { ABI } from "./abi";
 
-  let data: number = 0;
   let token: number;
   let stakes: number;
   let acct: any;
